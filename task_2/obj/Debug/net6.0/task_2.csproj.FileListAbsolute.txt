@@ -1,0 +1,15 @@
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/bin/Debug/net6.0/task_2
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/bin/Debug/net6.0/task_2.deps.json
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/bin/Debug/net6.0/task_2.runtimeconfig.json
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/bin/Debug/net6.0/task_2.dll
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/bin/Debug/net6.0/task_2.pdb
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/task_2.csproj.AssemblyReference.cache
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/task_2.AssemblyInfoInputs.cache
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/task_2.AssemblyInfo.cs
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/task_2.csproj.CoreCompileInputs.cache
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/task_2.dll
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/refint/task_2.dll
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/task_2.pdb
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/task_2.genruntimeconfig.cache
+/Users/ivanshevcenko/Desktop/Geek Brains/BI/C#/DZ/S4/task_2/obj/Debug/net6.0/ref/task_2.dll
